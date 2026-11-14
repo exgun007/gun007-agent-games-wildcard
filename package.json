@@ -1,0 +1,1 @@
+{"name":"gun007-agent-games-wildcard","version":"1.0.0","private":false,"description":"GUN007 Wildcard Guard — read-only deterministic wallet and contract safety triage agent","license":"MIT","scripts":{"start":"python3 server.py","test":"python3 -m unittest discover -s tests -v"},"engines":{"node":">=18"}}
